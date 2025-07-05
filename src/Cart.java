@@ -60,6 +60,6 @@ class Cart {
         System.out.println("Subtotal         " + (int)subtotal);
         System.out.println("Shipping         " + (int)shipping);
         System.out.println("Amount           " + (int)total);
-        System.out.println("END.");
+    
     }
     }
